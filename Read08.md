@@ -101,4 +101,3 @@ a box may be nested inside several other block-level elements. *the containing e
 
 2. you can link all the style sheets in ur HTML file.
     - `<link rel="stylesheet" type="text/css" href="css/site.css"`>
-
